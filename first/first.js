@@ -1,0 +1,10 @@
+var number = 3;
+console.log("number ", 3);
+var str = "ALLAH U AKBAR";
+console.log("string ".concat(str));
+var bol = true;
+console.log("boolen : ", bol);
+var arr = [1, 2, 3, 4, 5, 6];
+console.log("Numbers array : ", arr);
+var arr1 = ["a", "s", "f", "f"];
+console.log("string array : ", arr1);
